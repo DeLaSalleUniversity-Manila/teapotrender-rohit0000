@@ -1,0 +1,8 @@
+See file:///C:/Users/Rohit/AndroidStudioProjects/Teapot/app/build/tmp/compileArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibraryTeapotNativeActivityMainC/output.txt for all output for compileArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibraryTeapotNativeActivityMainC.
+compiling gl3stub.c successful.
+
+compiling cpu-features.c successful.
+
+compiling android_native_app_glue.c successful.
+
+Finished compileArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibraryTeapotNativeActivityMainC, see full log file:///C:/Users/Rohit/AndroidStudioProjects/Teapot/app/build/tmp/compileArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibraryTeapotNativeActivityMainC/output.txt.
