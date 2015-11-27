@@ -2,6 +2,8 @@ Teapot
 ======
 Teapot is an Android C++ sample that draws a Teapot mesh using GLES 2.0 API and [NativeActivity](http://developer.android.com/reference/android/app/NativeActivity.html).
 
+teapotrender-rohit0000 created by Classroom for GitHub
+
 Screenshots
 -----------
 ![screenshot](Teapot.png)
